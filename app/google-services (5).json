@@ -1,0 +1,77 @@
+{
+  "project_info": {
+    "project_number": "528820734293",
+    "firebase_url": "https://baby-food-recipes-d726e-default-rtdb.firebaseio.com",
+    "project_id": "baby-food-recipes-d726e",
+    "storage_bucket": "baby-food-recipes-d726e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:528820734293:android:677030fb792c4eb7eac7dc",
+        "android_client_info": {
+          "package_name": "com.codewithshreya.babyfoodrecipes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "528820734293-mh9ctna2vrjvk09ello0ub8h58it13ff.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.codewithshreya.babyfoodrecipes",
+            "certificate_hash": "a10415aec0de0f30cc4f19b52ff2aaa8a3a12025"
+          }
+        },
+        {
+          "client_id": "528820734293-oc52t3jum7aivo9hn0tu239bk0gie4pu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyALbXKdIx8F_9OfkM3uCRtcM-zLV_7Bfk0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "528820734293-oc52t3jum7aivo9hn0tu239bk0gie4pu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:528820734293:android:ba61e70242d6a9e2eac7dc",
+        "android_client_info": {
+          "package_name": "com.codewithshreya.recipe_categories"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "528820734293-oc52t3jum7aivo9hn0tu239bk0gie4pu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyALbXKdIx8F_9OfkM3uCRtcM-zLV_7Bfk0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "528820734293-oc52t3jum7aivo9hn0tu239bk0gie4pu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
